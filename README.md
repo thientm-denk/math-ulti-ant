@@ -5,7 +5,7 @@
 * The MathUtil.java - a replication of the famous JDK's library java.util.Math
 * Unit Test script using JUnit framework
 * Build script using Ant build tool in associationg with JUnit validation
-*...
+* ...
 
 #### Connect me via denkotieu@gmail.com
 
