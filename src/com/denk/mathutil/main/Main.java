@@ -19,6 +19,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("This Messge come form main");
         System.out.println("This Jar file is built base on Ant co-operatin with JUnit");
+        System.out.println("Mỏe OVer, Thí messeage comes form a US-BUILT JAR FILE");
         tryTDDFrist();
 
     }
