@@ -1,4 +1,4 @@
-name: CI with GitHub Actions using Ant and JUnit | © 2022 by giao.lang
+name: CI with GitHub Actions using Ant and JUnit | © 2022 by denkhotieu
 
 # This workflow will build a Java project with Ant
 # For more information see: https://help.github.com/actions/language-and-framework-guides/building-and-testing-java-with-ant
