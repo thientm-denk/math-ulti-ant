@@ -34,7 +34,7 @@ public class MathUtil {
             result *= i;
         }
 
-        return result+1;
+        return result;
 
     }
 }
