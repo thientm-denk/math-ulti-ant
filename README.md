@@ -1,5 +1,5 @@
 # Welcome to Math Utility Repository
-
+[![CI with GitHub Actions using Ant and JUnit | © 2022 by denkhotieu](https://github.com/thientm-denk/math-ulti-ant/actions/workflows/ci-with-ant.yml/badge.svg)](https://github.com/thientm-denk/math-ulti-ant/actions/workflows/ci-with-ant.yml)
 ### You will find in this repo the follwing stuff:
 
 * The MathUtil.java - a replication of the famous JDK's library java.util.Math
